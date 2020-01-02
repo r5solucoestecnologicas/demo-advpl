@@ -6,7 +6,7 @@ Local oTempTable
 Local nI
 Local cAlias := "MEUALIAS"
 Local cQuery
-
+//teste
 //-------------------
 //Cria��o do objeto
 //-------------------
