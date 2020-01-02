@@ -8,7 +8,7 @@ Local cAlias := "MEUALIAS"
 Local cQuery
 
 //-------------------
-//Criação do objeto
+//Criaï¿½ï¿½o do objeto
 //-------------------
 oTempTable := FWTemporaryTable():New( cAlias )
 
@@ -23,7 +23,7 @@ oTemptable:SetFields( aFields )
 oTempTable:AddIndex("indice1", {"DESCR"} )
 oTempTable:AddIndex("indice2", {"CONTR", "ALIAS"} )
 //------------------
-//Criação da tabela
+//Criaï¿½ï¿½o da tabela
 //------------------
 oTempTable:Create()
 
