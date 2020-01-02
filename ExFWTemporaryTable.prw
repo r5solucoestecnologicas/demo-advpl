@@ -6,7 +6,7 @@ Local oTempTable
 Local nI
 Local cAlias := "MEUALIAS"
 Local cQuery
-//teste
+//teste2
 //-------------------
 //Cria��o do objeto
 //-------------------
@@ -41,7 +41,7 @@ while !eof()
 	next
 	dbskip()
 Enddo
-
+//teste2
 	
 //---------------------------------
 //Exclui a tabela 
